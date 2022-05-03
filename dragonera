@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head><title>Dragon era</title>
+</head>
+<body style="background-color: honeydew;">
+    <h1>Best warriors of Dragon Ball:</h1>
+    <ol type="i">
+        <!--Goku-->
+        <li><abbr title="Son Goku is a fictional character and main protagonist of the Dragon Ball manga series created by Akira Toriyama. ... As Goku grows up,
+             he becomes the Earth's mightiest warrior and  battles a wide variety of villains with the help of his friends and family,
+              while also gaining new allies in the process."><font face="Helvetica" color="Orange">Goku</font></abbr></li>
+    <img src="Goku.jpg" width="200">
+    <video src="Bestofgoku.mkv" width="200" controls>Best of Goku</video><br>
+   <p align="left"><a href="https://en.wikipedia.org/wiki/Goku" target="_blank">Click here for more details on Goku</a></p>
+    <br><br>
+   <!--Vegeta-->
+    <li><abbr title="Vegeta is the prince of an extraterrestrial warrior race known as the Saiyans. 
+        He is extremely arrogant, proud and hardworking; constantly referring to his heritage and royal status throughout the series."><font face="Helvetica" color="Blue">Vegeta</font></abbr></li>
+       <img src="Vegeta.jpg" width="200">
+        <video src="08_Goku_Makes_an_Entrance!_A_Last.mkv" width="200" controls>Best of Vegeta</video><br>
+        <a href="https://en.wikipedia.org/wiki/Vegeta" target="_blank">Click here for more details on Vegeta</a>
+        <br><br><br><br>
+        <!--Gohan-->
+        <li><abbr title="Gohan is introduced as the four-year-old son of Goku and Chi-Chi, named after Goku's adoptive grandfather. 
+            Described as well-mannered and reserved, Gohan's story begins following his abduction by the extraterrestrial Saiyan named Raditz,
+             revealed to be his paternal uncle."><font face="Helvetica" color="Gray">Gohan</font></abbr></li>
+             <img src="Gohan.jpg" width="200">
+             <video src="DBZ 191 Hindi [@Princevegeta786].mp4" width="200" controls>Best of Gohan</video><br>
+             <a href="https://en.wikipedia.org/wiki/Gohan#:~:text=Gohan%20is%20introduced%20as%20the%20four%2Dyear%2Dold%20son%20of,to%20be%20his%20paternal%20uncle." target="_blank">Click here for more details on Gohan</a>
+<br><br><br><br>
+<!--Piccolo-->
+             <li><abbr title="Piccolo Jr., usually just called Piccolo also known as Ma Junior, is a Namekian and also the final child and reincarnation of the Demon King Piccolo, later becoming the reunification of the Nameless Namekian after fusing with Kami. "><font face="Helvetica" color="Green">Piccolo</font></abbr></li>
+<img src="Piccolo.jpg" width="200" >
+<video src="23_Earth!_Gohan!_Both_on_the_Ropes!.mkv" width="200" controls>Best of Piccolo</video><br>
+<a href="https://en.wikipedia.org/wiki/Piccolo_(Dragon_Ball)"  target="_blank">Click here for more details on Piccolo</a><br><br><br><br>
+<!--Roshi-->
+<li><abbr title="Master Roshi, also known as the Turtle Hermit or Jackie Chun, is a master of martial arts, who trained Gohan, Ox-King, Goku, Krillin, and Yamcha. He has a sister named Fortuneteller Baba."><font face="Helvetica" color="Magenta">Master Roshi</font></abbr></li>
+<img src="drj.png" width="200">
+<video src="21_The_Start_of_Vengeance!_The_Frieza.mkv" width="200" controls>Best of Master Roshi</video><br>
+<a href="https://en.wikipedia.org/wiki/Master_Roshi" target="_blank">Click here for more details on Master Roshi</a>
+</ol><br><br><br>
+<p align="Center">Designed by Vatsal Tandel</p>
+</body>
